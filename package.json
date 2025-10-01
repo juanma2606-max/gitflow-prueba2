@@ -1,6 +1,6 @@
 {
-  "name": "gitflow-prueba",
-  "version": "1.0.0",
+  "name": "gitflow-prueba2",
+  "version": "0.0.1",
   "description": "Proyecto de github de prueba",
   "main": "main.ts",
   "scripts": {
