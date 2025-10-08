@@ -1,0 +1,21 @@
+{
+  "name": "gitflow-prueba2",
+  "version": "1.0.0",
+  "description": "Proyecto de github de prueba",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "start" : "nodemon",
+    "execute": "npm exec ts-node src/index.ts",
+    "transpilar": "npm exec tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
